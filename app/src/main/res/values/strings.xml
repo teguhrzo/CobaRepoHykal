@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teguh</string>
+    <string name="nama_anggota">Nama anggota</string>
+    <string name="detail_anggota">Detail anggota</string>
+</resources>
